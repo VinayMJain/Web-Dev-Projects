@@ -1,0 +1,54 @@
+.heading{
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 86, 86);
+}
+img{
+    height: 400px;
+}
+h2{
+    text-align: center;
+}
+
+.art{
+    height: 500px;
+}
+.cards{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.reg_form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid ;
+    border-radius: 4%;
+    background-color: aquamarine;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.mks_d{
+    text-align: center;
+    border: 2px solid;
+    background-color: #f2f4f6;
+    border-radius: 4%;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.mks_d form input{
+    margin: 15px;
+}
+footer{
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
